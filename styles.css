@@ -1,0 +1,169 @@
+ body {
+	margin: ;
+	padding: 5;
+ }
+ 
+ #menu
+ {
+    width: 1000px;
+    height: 40px;
+    font-size: 20px;
+    font-family:sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 1px 2px 1px #333333;
+    background-color: #8AD9FF;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+
+}
+#menu li 
+{ 
+    display: inline; 
+    padding: 10px; 
+}
+#menu a 
+{
+    text-decoration: none;
+    color: #00F;
+    padding: 10px 10px 10px 10px;
+    
+}
+#logo{
+	float: left;
+	padding-top: 5px;
+	padding-left: 20px;
+	background-color: #8AD9FF;
+	width: 985px;
+	height:67px;
+	border-radius: 20px;
+	}
+
+  }
+#slider figure
+       {
+       	
+	   }  
+#slider figure 
+        {
+           float:left; 
+	       width:500px;
+	       height:80px;
+	}
+
+#slider figcaption 
+{       
+	    float:right; 
+        width:490px; 
+        height:260px; 
+        padding:20px; 
+        overflow:right;
+        color:#989898; 
+        background-color:#8AD9FF; 
+        float:left;
+        line-height:1.6em;
+    }
+ }
+#slider figure h2
+{
+	font-size:42px; 
+	font-weight:normal; 
+	font-style:italic; 
+	text-transform:none;}
+#freeforwork 
+{ 
+	 left: 85px; 
+	 top: 454px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 77px;
+	 z-index:14;
+}  
+
+#features1 
+{ 
+	 left: 68px; 
+	 top: 582px; 
+	 position: absolute; 
+	 width: 347px;
+	 height: 144px;
+	 z-index:12
+     }
+#features1 figure
+{
+	   width:80px;
+	   height: 80px;
+
+
+}
+ #feature1 figcaption
+ {
+ 	font-size: 10px;
+ 	font-weight:bold;
+ 	font-family: sans-serif;
+ 	text-transform:none;
+
+ }
+     	 #features2 
+{ 
+	 left: 68px; 
+	 top: 582px; 
+	 position: absolute; 
+	 width: 347px;
+	 height: 144px;
+	 z-index:3;
+}
+#chart 
+{ 
+	 left: 90px; 
+	 top: 616px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 77px;
+	 z-index:7;
+} 
+
+ #features3 
+{ 
+	 left: 68px; 
+	 top: 742px; 
+	 position: absolute; 
+	 width: 347px;
+	 height: 144px;
+	 z-index:4;
+} 
+
+ #portfolio 
+{ 
+	 left: 89px; 
+	 top: 777px; 
+	 position: absolute; 
+	 width: 71px;
+	 height: 77px;
+	 z-index:5;
+} 
+
+ #content 
+{ 
+	 left: 429px; 
+	 top: 422px; 
+	 position: absolute; 
+	 width: 505px;
+	 height: 464px;
+	 z-index:6;
+} 
+
+  
+ 
+#footer 
+{ 
+	 left: 68px; 
+	 top: 907px; 
+	 position: absolute; 
+	 width: 866px;
+	 height: 86px;
+	 z-index:17;
+} 
